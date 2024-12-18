@@ -1,0 +1,72 @@
+[
+    {
+      "id": 1,
+      "name": "Robert Downey Jr.",
+      "role": "Actor",
+      "image": "https://link-to-image.com/robert.jpg",
+      "movies": ["Iron Man", "Sherlock Holmes", "Avengers"]
+    },
+    {
+      "id": 2,
+      "name": "Christopher Nolan",
+      "role": "Director",
+      "image": "https://link-to-image.com/nolan.jpg",
+      "movies": ["Inception", "Interstellar", "Dunkirk"]
+    },
+    {
+      "id": 3,
+      "name": "Hans Zimmer",
+      "role": "Composer",
+      "image": "https://link-to-image.com/zimmer.jpg",
+      "movies": ["Inception", "The Dark Knight", "Lion King"]
+    },
+    {
+        "id": 4,
+        "name": "Hans Zimmer",
+        "role": "Composer",
+        "image": "https://link-to-image.com/zimmer.jpg",
+        "movies": ["Inception", "The Dark Knight", "Lion King"]
+      },
+      {
+        "id": 5,
+        "name": "Hans Zimmer",
+        "role": "Composer",
+        "image": "https://link-to-image.com/zimmer.jpg",
+        "movies": ["Inception", "The Dark Knight", "Lion King"]
+      },
+      {
+        "id": 6,
+        "name": "Hans Zimmer",
+        "role": "Composer",
+        "image": "https://link-to-image.com/zimmer.jpg",
+        "movies": ["Inception", "The Dark Knight", "Lion King"]
+      },
+      {
+        "id": 7,
+        "name": "Hans Zimmer",
+        "role": "Composer",
+        "image": "https://link-to-image.com/zimmer.jpg",
+        "movies": ["Inception", "The Dark Knight", "Lion King"]
+      },
+      {
+        "id": 8,
+        "name": "Hans Zimmer",
+        "role": "Composer",
+        "image": "https://link-to-image.com/zimmer.jpg",
+        "movies": ["Inception", "The Dark Knight", "Lion King"]
+      },
+      {
+        "id":9,
+        "name": "Hans Zimmer",
+        "role": "Composer",
+        "image": "https://link-to-image.com/zimmer.jpg",
+        "movies": ["Inception", "The Dark Knight", "Lion King"]
+      },
+      {
+        "id": 10,
+        "name": "Hans Zimmer",
+        "role": "Composer",
+        "image": "https://link-to-image.com/zimmer.jpg",
+        "movies": ["Inception", "The Dark Knight", "Lion King"]
+      }
+  ]
